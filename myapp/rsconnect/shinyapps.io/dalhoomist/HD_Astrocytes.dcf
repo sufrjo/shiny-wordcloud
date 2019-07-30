@@ -1,0 +1,13 @@
+name: HD_Astrocytes
+title: HD_Astrocytes
+username:
+account: dalhoomist
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1054271
+bundleId: 2270579
+url: https://dalhoomist.shinyapps.io/HD_Astrocytes/
+when: 1564281615.8408
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|sce_Neurons.rds|sce_Oligo.rds|shiny_w1.R
